@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcosalvador
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on software development.
+- 🌱 I’m currently learning physics.
+- 💞️ I’m looking to collaborate on computational physics.
 - 📫 How to reach me: visit marcosalvador2001.blogspot.it
 
 <!---
